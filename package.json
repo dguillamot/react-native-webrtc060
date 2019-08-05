@@ -3,7 +3,7 @@
   "version": "1.69.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-webrtc/react-native-webrtc.git"
+    "url": "git+https://github.com/dguillamot/react-native-webrtc060.git"
   },
   "nativePackage": true,
   "description": "Fork WebRTC for React Native for 0.60.* support",
